@@ -14,7 +14,7 @@
     * [09.Java线程上](java-concurrency-in-practice/ch09.md)
     * [10.Java线程中](java-concurrency-in-practice/ch10.md)
     * [11.Java线程下](java-concurrency-in-practice/ch11.md)
-    * [12.面向对象]((java-concurrency-in-practice/ch12.md))
+    * [12.面向对象](java-concurrency-in-practice/ch12.md)
     * [13.理论基础答疑](java-concurrency-in-practice/ch13.md)
     * [14.Lock和Condition上](java-concurrency-in-practice/ch14.md)
     * [15.Lock和Condition下](java-concurrency-in-practice/ch15.md)
