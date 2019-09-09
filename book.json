@@ -1,0 +1,22 @@
+{
+    "title": "极客时间学习笔记",
+    "description": "极客时间学习笔记",
+    "language": "zh",
+    "plugins": [
+      "disqus",
+      "github",
+      "prism",
+      "baidu"
+    ],
+    "pluginsConfig": {
+      "disqus": {
+        "shortName": "solarex-blog"
+      },
+      "github": {
+        "url": "https://github.com/flyfire/notes-on-geektime-md/"
+      },
+      "baidu": {
+          "token": "2574e8b2c205dfe8ff89e239fa38ca27"
+      }
+    }
+  }
